@@ -16,6 +16,7 @@ namespace CocinaIdeal.Models
         public string? Nombre { get; set; }
         [Required]
         public int Celular { get; set; }
+        public string? Ciudad { get; set; }
 
         //relaciones: 1--->*
         public virtual List<Venta>? Ventas { get; set; }

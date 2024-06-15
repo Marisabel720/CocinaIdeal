@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0BzDfR4ldr1aWGVBI/K7nauCM3LpZMjFCEWlv3jYyp0/1kgSCKprI5SxHrR9R2hIoHWpM0/1rlsXNofOSYPrzg==",
+  "dgSpecHash": "sN3HmsBwUfeZRUJjiA3g2vHThge36jOPI6Zi6nQDIpJi74F4nZta4ewqizsIch4yBeu+fyhpbrJHFaHFUNsmgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\SistemaCocinaIdeal\\CocinaIdeal\\CocinaIdeal.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\COCINA IDEAL Marisabel\\CocinaIdeal\\CocinaIdeal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.10\\microsoft.data.sqlite.core.7.0.10.nupkg.sha512",

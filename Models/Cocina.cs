@@ -20,6 +20,8 @@ namespace CocinaIdeal.Models
         public string? ImagenCocina { get; set; }
         [Required]
         public decimal Precio { get; set; }
+        [Required]
+        public DateTime FechaDeLanzamiento { get; set; }
 
         //relaciones: 1--->*
         public virtual List<Venta>? Venta { get; set; }

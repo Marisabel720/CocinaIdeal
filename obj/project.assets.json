@@ -1308,11 +1308,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\SistemaCocinaIdeal\\CocinaIdeal\\CocinaIdeal.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\COCINA IDEAL Marisabel\\CocinaIdeal\\CocinaIdeal.csproj",
       "projectName": "CocinaIdeal",
-      "projectPath": "C:\\Users\\HP\\Desktop\\SistemaCocinaIdeal\\CocinaIdeal\\CocinaIdeal.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\COCINA IDEAL Marisabel\\CocinaIdeal\\CocinaIdeal.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\SistemaCocinaIdeal\\CocinaIdeal\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\COCINA IDEAL Marisabel\\CocinaIdeal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

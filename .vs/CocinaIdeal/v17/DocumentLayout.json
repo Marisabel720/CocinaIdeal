@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\SistemaCocinaIdeal\\CocinaIdeal\\",
+  "WorkspaceRootPath": "C:\\Users\\MR ROBOT\\Desktop\\Nuevo_Cocina\\CocinaIdeal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\hp\\desktop\\sistemacocinaideal\\cocinaideal\\models\\cocina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:models\\cocina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\nuevo_cocina\\cocinaideal\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\hp\\desktop\\sistemacocinaideal\\cocinaideal\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\nuevo_cocina\\cocinaideal\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\hp\\desktop\\sistemacocinaideal\\cocinaideal\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\hp\\desktop\\sistemacocinaideal\\cocinaideal\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\nuevo_cocina\\cocinaideal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +22,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Nuevo_Cocina\\CocinaIdeal\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Nuevo_Cocina\\CocinaIdeal\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T01:51:04.304Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Cocina.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SistemaCocinaIdeal\\CocinaIdeal\\Models\\Cocina.cs",
-              "RelativeDocumentMoniker": "Models\\Cocina.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SistemaCocinaIdeal\\CocinaIdeal\\Models\\Cocina.cs",
-              "RelativeToolTip": "Models\\Cocina.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAswBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T23:11:48.051Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Nuevo_Cocina\\CocinaIdeal\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Nuevo_Cocina\\CocinaIdeal\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA8AAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T01:50:59.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SistemaCocinaIdeal\\CocinaIdeal\\Models\\Venta.cs",
-              "RelativeDocumentMoniker": "Models\\Venta.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SistemaCocinaIdeal\\CocinaIdeal\\Models\\Venta.cs",
-              "RelativeToolTip": "Models\\Venta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T23:11:10.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SistemaCocinaIdeal\\CocinaIdeal\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SistemaCocinaIdeal\\CocinaIdeal\\Models\\Cliente.cs",
-              "RelativeToolTip": "Models\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T23:10:54.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SistemaCocinaIdeal\\CocinaIdeal\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SistemaCocinaIdeal\\CocinaIdeal\\Models\\Usuario.cs",
-              "RelativeToolTip": "Models\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T23:09:28.089Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Nuevo_Cocina\\CocinaIdeal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Nuevo_Cocina\\CocinaIdeal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T01:41:44.518Z",
               "EditorCaption": ""
             }
           ]

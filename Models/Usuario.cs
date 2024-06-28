@@ -20,7 +20,7 @@ namespace CocinaIdeal.Models
         public string? Password { get; set; }
         [Required]
         public RolEnum Rol { get; set; }
-        [Required]
+       // [Required]
         public bool Estado { get; set; }
 
         //relaciones: 1--->*

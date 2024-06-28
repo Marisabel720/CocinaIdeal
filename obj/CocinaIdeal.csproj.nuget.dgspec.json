@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\COCINA IDEAL Marisabel\\CocinaIdeal\\CocinaIdeal.csproj": {}
+    "C:\\Users\\MR ROBOT\\Desktop\\Nuevo_Cocina\\CocinaIdeal\\CocinaIdeal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\COCINA IDEAL Marisabel\\CocinaIdeal\\CocinaIdeal.csproj": {
+    "C:\\Users\\MR ROBOT\\Desktop\\Nuevo_Cocina\\CocinaIdeal\\CocinaIdeal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\COCINA IDEAL Marisabel\\CocinaIdeal\\CocinaIdeal.csproj",
+        "projectUniqueName": "C:\\Users\\MR ROBOT\\Desktop\\Nuevo_Cocina\\CocinaIdeal\\CocinaIdeal.csproj",
         "projectName": "CocinaIdeal",
-        "projectPath": "C:\\Users\\HP\\Desktop\\COCINA IDEAL Marisabel\\CocinaIdeal\\CocinaIdeal.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\COCINA IDEAL Marisabel\\CocinaIdeal\\obj\\",
+        "projectPath": "C:\\Users\\MR ROBOT\\Desktop\\Nuevo_Cocina\\CocinaIdeal\\CocinaIdeal.csproj",
+        "packagesPath": "C:\\Users\\MR ROBOT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MR ROBOT\\Desktop\\Nuevo_Cocina\\CocinaIdeal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MR ROBOT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,6 +61,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             }
           },
           "imports": [
@@ -81,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,6 +13,58 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\fotos\\Bosch_bfd37fe5-64c6-45de-9652-6c8effc81eb0.webp",
+      "PackagePath": "staticwebassets\\fotos\\Bosch_bfd37fe5-64c6-45de-9652-6c8effc81eb0.webp"
+    },
+    {
+      "Id": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\fotos\\Esen_14c01af1-5df3-402c-9235-1332dcc51612.jpeg",
+      "PackagePath": "staticwebassets\\fotos\\Esen_14c01af1-5df3-402c-9235-1332dcc51612.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\fotos\\Esen_4a0f9fa7-2d01-43e7-978d-27aea33069ac.avif",
+      "PackagePath": "staticwebassets\\fotos\\Esen_4a0f9fa7-2d01-43e7-978d-27aea33069ac.avif"
+    },
+    {
+      "Id": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\fotos\\Esen_6319e88b-f18c-41e5-8e7c-eeaa20c03894.jpeg",
+      "PackagePath": "staticwebassets\\fotos\\Esen_6319e88b-f18c-41e5-8e7c-eeaa20c03894.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\fotos\\Esen_811fcf17-9912-43b4-90ff-676dc58b8566.jpeg",
+      "PackagePath": "staticwebassets\\fotos\\Esen_811fcf17-9912-43b4-90ff-676dc58b8566.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\fotos\\Klimatic_29973300-5747-4d2d-867b-6a2a4afa8ab8.webp",
+      "PackagePath": "staticwebassets\\fotos\\Klimatic_29973300-5747-4d2d-867b-6a2a4afa8ab8.webp"
+    },
+    {
+      "Id": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\fotos\\Klimatic_51b8f9a7-76d0-408b-a262-c674e36850fa.webp",
+      "PackagePath": "staticwebassets\\fotos\\Klimatic_51b8f9a7-76d0-408b-a262-c674e36850fa.webp"
+    },
+    {
+      "Id": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\fotos\\Klimatic_55b27d79-8344-4db1-aa3e-2277397075fe.webp",
+      "PackagePath": "staticwebassets\\fotos\\Klimatic_55b27d79-8344-4db1-aa3e-2277397075fe.webp"
+    },
+    {
+      "Id": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\fotos\\Klimatic_826e5626-4fe6-4809-a239-c33689e28be2.jpeg",
+      "PackagePath": "staticwebassets\\fotos\\Klimatic_826e5626-4fe6-4809-a239-c33689e28be2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\fotos\\Klimatic_b0ff73a5-f0ec-44f4-babb-9d3eccdd6d6d.webp",
+      "PackagePath": "staticwebassets\\fotos\\Klimatic_b0ff73a5-f0ec-44f4-babb-9d3eccdd6d6d.webp"
+    },
+    {
+      "Id": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\fotos\\Klimatic_bf2b6ea2-b84a-4041-a76b-70f7febb4fdc.jpeg",
+      "PackagePath": "staticwebassets\\fotos\\Klimatic_bf2b6ea2-b84a-4041-a76b-70f7febb4fdc.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\fotos\\Klimatic_d7c0a7b6-7625-4eef-a0d2-807e4d42f541.jpeg",
+      "PackagePath": "staticwebassets\\fotos\\Klimatic_d7c0a7b6-7625-4eef-a0d2-807e4d42f541.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\fotos\\Klimatic_f947d8f2-821b-44b6-b397-aa047aa3b98b.jpg",
+      "PackagePath": "staticwebassets\\fotos\\Klimatic_f947d8f2-821b-44b6-b397-aa047aa3b98b.jpg"
+    },
+    {
       "Id": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

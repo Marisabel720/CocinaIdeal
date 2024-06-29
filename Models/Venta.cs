@@ -7,17 +7,17 @@ namespace CocinaIdeal.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        [Required]
+        //[Required]
         public int Id { get; set; }
-        [Required]
+       // [Required]
         public int NumeroRecibo { get; set; }
-        [Required]
+        //[Required]
         public DateTime FechaCompra { get; set; }
-        [Required]
+        //[Required]
         public bool EsPagado { get; set; }
-        [Required]
+        //[Required]
         public int NumeroTicketReserva { get; set; }
-        [Required]
+       //[Required]
         public decimal Precio { get; set; }
 
         //Relaciones de *--->1

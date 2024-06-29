@@ -18,5 +18,50 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    background-image: url('https://wallpapers.com/images/featured/pastel-aesthetic-pictures-7m6fad3x90p3x6nz.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #333; /* Para mejor legibilidad */
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo blanco con transparencia */
+    border-radius: 15px; /* Bordes redondeados */
+    padding: 20px;
+    margin-top: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 2px solid rgba(255, 255, 255, 0.5); /* Borde blanco con transparencia */
+}
+
+    .table th, .table td {
+        padding: 1rem;
+        vertical-align: top;
+        border-top: 1px solid rgba(255, 255, 255, 0.5); /* Borde superior blanco con transparencia */
+        border-left: 1px solid rgba(255, 255, 255, 0.5); /* Borde izquierdo blanco con transparencia */
+    }
+
+    .table th {
+        background-color: rgba(255, 255, 255, 0.9); /* Fondo más sólido para encabezados */
+        font-weight: bold;
+    }
+
+    .table tr:last-child td {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.5); /* Borde inferior blanco con transparencia */
+    }
+
+    .table tr td:last-child {
+        border-right: 1px solid rgba(255, 255, 255, 0.5); /* Borde derecho blanco con transparencia */
+    }
+
+.btn {
+    margin: 5px;
 }

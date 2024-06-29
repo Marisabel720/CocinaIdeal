@@ -1,0 +1,98 @@
+﻿@model IEnumerable<CocinaIdeal.Models.Cliente>
+
+@{
+    ViewData["Title"] = "Lista de Clientes";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Clientes</title>
+    <!-- Bootstrap CSS para estilos básicos -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Estilos adicionales personalizados */
+        body {
+            /* Propiedades para la imagen de fondo */
+            background-image: url('https://media.revistaad.es/photos/62d96837d85a7e22546b1aff/16:9/w_2560%2Cc_limit/03-cocinas-negras-santos.jpg');
+            background-size: cover;
+            background-position: center;
+            /* Otros estilos */
+            padding-top: 80px; /* Espacio adicional para evitar que la imagen de fondo se solape con el contenido */
+        }
+
+        .container {
+            background-color: rgba(255, 255, 255, 0.8); /* Fondo semi-transparente para el contenido */
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave alrededor del contenido */
+        }
+
+        .table {
+            background-color: rgba(255, 255, 255, 0.9); /* Fondo semi-transparente para la tabla */
+        }
+
+            .table th, .table td {
+                vertical-align: middle; /* Alineación vertical centrada para celdas de la tabla */
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Lista de Clientes</h1>
+
+        <p>
+            <!-- Botón para crear nuevo cliente -->
+            <a class="btn btn-success" asp-action="Create">Crear Nuevo</a>
+        </p>
+
+        <!-- Tabla para mostrar la lista de clientes -->
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Ci)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Nombre)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Celular)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Ci)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nombre)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Celular)
+                        </td>
+                        <td>
+                            <!-- Acciones para editar, ver detalles y eliminar -->
+                            <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                            <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.Id">Detalles</a> |
+                            <a class="btn btn-primary" asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        
+    </div>
+
+    <!-- Bootstrap JS (opcional, si se requiere funcionalidad específica de Bootstrap) -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
+

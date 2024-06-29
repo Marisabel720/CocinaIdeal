@@ -1,0 +1,126 @@
+﻿@model IEnumerable<CocinaIdeal.Models.Cocina>
+
+@{
+    ViewData["Title"] = "Productos";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Productos</title>
+    <style>
+        body {
+            background-image: url('https://p4.wallpaperbetter.com/wallpaper/944/517/106/anime-original-kitchen-room-wallpaper-preview.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            color: #333; /* Para mejor legibilidad */
+        }
+
+        .container {
+            background-color: rgba(255, 255, 255, 0.8); /* Fondo blanco con transparencia */
+            border-radius: 15px; /* Bordes redondeados */
+            padding: 20px;
+            margin-top: 30px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+        }
+
+        .table {
+            width: 100%;
+            margin-bottom: 1rem;
+            color: #212529;
+            border-collapse: separate;
+            border-spacing: 0;
+            border: 2px solid rgba(255, 255, 255, 0.5); /* Borde blanco con transparencia */
+        }
+
+            .table th, .table td {
+                padding: 1rem;
+                vertical-align: top;
+                border-top: 1px solid rgba(255, 255, 255, 0.5); /* Borde superior blanco con transparencia */
+                border-left: 1px solid rgba(255, 255, 255, 0.5); /* Borde izquierdo blanco con transparencia */
+            }
+
+            .table th {
+                background-color: rgba(255, 255, 255, 0.9); /* Fondo más sólido para encabezados */
+                font-weight: bold;
+            }
+
+            .table tr:last-child td {
+                border-bottom: 1px solid rgba(255, 255, 255, 0.5); /* Borde inferior blanco con transparencia */
+            }
+
+            .table tr td:last-child {
+                border-right: 1px solid rgba(255, 255, 255, 0.5); /* Borde derecho blanco con transparencia */
+            }
+
+        .btn {
+            margin: 5px;
+        }
+    </style>
+    <!-- Asegúrate de incluir los enlaces a los archivos CSS de Bootstrap -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>Lista de Productos</h1>
+
+        <p>
+            <a class="btn btn-success" asp-action="Create">Crear Nuevo Producto</a>
+        </p>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.CantidadStock)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Marca)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Modelo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ImagenCocina)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Precio)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CantidadStock)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Marca)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Modelo)
+                        </td>
+                        <td>
+                            
+                            <img src="/fotos/@item.ImagenCocina" class="" />
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Precio)
+                        </td>
+                        <td>
+                            <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                            <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.Id">Detalles</a> |
+                            <a class="btn btn-primary" asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
+

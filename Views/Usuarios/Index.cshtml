@@ -4,56 +4,110 @@
     ViewData["Title"] = "Lista de usuarios";
 }
 
-<h1>Lista de usuarios</h1>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Usuarios - CocinaIdeal</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            /* Establecer la imagen de fondo */
+            background-image: url('https://4kwallpapers.com/images/wallpapers/blue-sky-half-moon-crescent-moon-clouds-star-trails-5k-3840x2160-8404.png');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            color: #333; /* Color del texto principal */
+            font-family: Arial, sans-serif; /* Fuente del texto */
+            padding-top: 80px; /* Espacio adicional para evitar que la imagen de fondo se solape con el contenido */
+        }
 
-<p>
-    <a class=" btn btn-success" asp-action="Create">Crear Nuevo</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Nombre)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Email)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Password)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Rol)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Estado)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nombre)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Email)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Password)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Rol)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Estado)
-            </td>
-            <td>
-                <a class=" btn btn-info" asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
-                    <a class=" btn btn-info" asp-action="Details" asp-route-id="@item.Id">Detalles</a> |
-                    <a class=" btn btn-info" asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+        .container {
+            background-color: rgba(255, 255, 255, 0.9); /* Fondo semi-transparente para el contenido */
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave alrededor del contenido */
+        }
+
+        .table {
+            background-color: rgba(255, 255, 255, 0.8); /* Fondo semi-transparente para la tabla */
+        }
+
+            .table th, .table td {
+                vertical-align: middle; /* Alineación vertical centrada para celdas de la tabla */
+            }
+
+        .btn {
+            color: #fff; /* Color del texto de los botones */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Lista de Usuarios</h1>
+
+        <p>
+            <!-- Botón para crear nuevo usuario -->
+            <a class="btn btn-success" asp-action="Create">Crear Nuevo</a>
+        </p>
+
+        <!-- Tabla para mostrar la lista de usuarios -->
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Nombre)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Email)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Password)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Rol)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Estado)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nombre)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Email)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Password)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Rol)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Estado)
+                        </td>
+                        <td>
+                            <!-- Acciones para editar, ver detalles y eliminar -->
+                            <a class="btn btn-info" asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                            <a class="btn btn-info" asp-action="Details" asp-route-id="@item.Id">Detalles</a> |
+                            <a class="btn btn-info" asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+
+    <!-- Bootstrap JS (opcional, si se requiere funcionalidad específica de Bootstrap) -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+

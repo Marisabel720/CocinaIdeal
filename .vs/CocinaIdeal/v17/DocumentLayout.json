@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\proyecto\\cocinaideal\\views\\ventas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:views\\ventas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\proyecto\\cocinaideal\\wwwroot\\js\\qr.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:wwwroot\\js\\qr.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\proyecto\\cocinaideal\\wwwroot\\css\\print.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:wwwroot\\css\\print.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\proyecto\\cocinaideal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\proyecto\\cocinaideal\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\proyecto\\cocinaideal\\views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\proyecto\\cocinaideal\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\proyecto\\cocinaideal\\views\\ventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:views\\ventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\proyecto\\cocinaideal\\views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\proyecto\\cocinaideal\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\proyecto\\cocinaideal\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +51,28 @@
       "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:controllers\\cocinascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\proyecto\\cocinaideal\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\proyecto\\cocinaideal\\models\\cocina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:models\\cocina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\proyecto\\cocinaideal\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\proyecto\\cocinaideal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\proyecto\\cocinaideal\\views\\cocinas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:views\\cocinas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\proyecto\\cocinaideal\\views\\cocinas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:views\\cocinas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\proyecto\\cocinaideal\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5CB1B00-0A10-44C8-967B-001CA0C1097D}|CocinaIdeal.csproj|c:\\users\\mr robot\\desktop\\proyecto\\cocinaideal\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,33 +94,169 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Cocinas\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cocinas\\Index.cshtml",
-              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Cocinas\\Index.cshtml",
-              "RelativeToolTip": "Views\\Cocinas\\Index.cshtml",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGwAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-29T01:04:28.559Z",
+              "DocumentIndex": 1,
+              "Title": "qr.min.js",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\js\\qr.min.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\qr.min.js",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\js\\qr.min.js",
+              "RelativeToolTip": "wwwroot\\js\\qr.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAD0XgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-30T17:26:34.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CocinasController.cs",
-              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Controllers\\CocinasController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CocinasController.cs",
-              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Controllers\\CocinasController.cs",
-              "RelativeToolTip": "Controllers\\CocinasController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:44:44.838Z",
+              "DocumentIndex": 2,
+              "Title": "print.css",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\css\\print.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\print.css",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\css\\print.css",
+              "RelativeToolTip": "wwwroot\\css\\print.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-30T17:21:30.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-30T17:13:04.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Ventas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Ventas\\Details.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Details.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T21:17:07.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Ventas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Ventas\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Delete.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T21:14:53.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Ventas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Ventas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T04:07:11.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T03:51:31.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cocina.cs",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Models\\Cocina.cs",
+              "RelativeDocumentMoniker": "Models\\Cocina.cs",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Models\\Cocina.cs",
+              "RelativeToolTip": "Models\\Cocina.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T03:50:48.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Ventas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Ventas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Create.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAArwC0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T03:49:17.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "Controllers\\VentasController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T02:03:53.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T11:29:19.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Ventas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Ventas\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Edit.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAD8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T21:17:48.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CocinasController.cs",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Controllers\\CocinasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CocinasController.cs",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Controllers\\CocinasController.cs",
+              "RelativeToolTip": "Controllers\\CocinasController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T00:44:44.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Cocinas\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Cocinas\\Create.cshtml",
@@ -76,38 +264,11 @@
               "RelativeToolTip": "Views\\Cocinas\\Create.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-29T00:03:35.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T00:03:35.502Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Models\\Cliente.cs",
-              "RelativeToolTip": "Models\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T22:46:49.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Clientes\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Clientes\\Create.cshtml",
-              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Clientes\\Create.cshtml",
-              "RelativeToolTip": "Views\\Clientes\\Create.cshtml",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAIwCcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-28T22:36:36.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Venta.cs",
               "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Models\\Venta.cs",
               "RelativeDocumentMoniker": "Models\\Venta.cs",
@@ -115,8 +276,55 @@
               "RelativeToolTip": "Models\\Venta.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T14:52:38.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T14:52:38.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T22:46:49.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Cocinas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cocinas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Cocinas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cocinas\\Index.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T01:04:28.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T02:05:24.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Create.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T22:36:36.059Z"
             }
           ]
         }

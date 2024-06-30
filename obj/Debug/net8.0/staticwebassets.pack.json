@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\CocinaIdeal.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\css\\print.css",
+      "PackagePath": "staticwebassets\\css\\print.css"
+    },
+    {
       "Id": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -63,6 +67,10 @@
     {
       "Id": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\fotos\\Klimatic_f947d8f2-821b-44b6-b397-aa047aa3b98b.jpg",
       "PackagePath": "staticwebassets\\fotos\\Klimatic_f947d8f2-821b-44b6-b397-aa047aa3b98b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\js\\qr.min.js",
+      "PackagePath": "staticwebassets\\js\\qr.min.js"
     },
     {
       "Id": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\js\\site.js",

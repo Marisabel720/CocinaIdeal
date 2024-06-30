@@ -1,0 +1,81 @@
+﻿@model CocinaIdeal.Models.Venta
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="~/css/print.css" rel="stylesheet" />
+	<script src="~/js/qr.min.js"></script>
+
+</head>
+
+<body style="text-align:center" onload="window.print();" onafterprint="history.back()">
+        <h1>RECIBO</h1>
+        <h4>Numero:   @Html.DisplayFor(model => model.NumeroRecibo)</h4>
+
+        <hr />
+
+        <div>
+            <p>
+                Nombre:  @Html.DisplayFor(model => model.Cliente.Info)
+            </p>
+            <p>
+                Fecha:  @Html.DisplayFor(model => model.FechaCompra)
+            </p>
+
+            <table>
+            <tr>
+                <th> Es Pagado </th>
+                <th> Nro Tiket </th>
+                <th> Precio </th>
+                <th> Cocina id </th>
+            </tr>
+            <tr>
+                <th> @Html.DisplayFor(model => model.EsPagado) </th>
+                <th> @Html.DisplayFor(model => model.NumeroTicketReserva)</th>
+                <th> @Html.DisplayFor(model => model.Precio) </th>
+                <th> @Html.DisplayFor(model => model.Cocina.Id) </th>
+            </tr>
+
+            </table>
+
+            <small>ususario:  @Html.DisplayFor(model => model.Usuario.Email)</small>
+        </div>
+
+
+        <div style="margin-top: 20px; width:80%">
+            <div id="qrcode"></div>
+        </div>
+
+        @{
+        string codigoQR = String.Format("{0}|{1}|{2}|{3}|{4}|{5}|{6}",
+            Model.NumeroRecibo,
+            Model.Cliente!.Ci,
+            Model.Cliente!.Nombre,
+            Model.EsPagado,
+            Model.NumeroTicketReserva,
+            Model.Cocina,
+            Model.Precio
+            );
+        }
+
+    <script>
+        var qrcode = new QRCode("qrcode", {
+            text: "@codigoQR",
+            width: 100,
+            height: 100
+        });
+    </script>
+
+
+
+    </body>
+</html>
+
+
+

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IYGGiSi+KVr/n+r7OyW5MnCmxJPerSHJ7MpumsGAmqk=",
+  "Hash": "xcLdKWvrvVZoJowa9M+WDfOlUTILqtNohqfMTAVOHAQ=",
   "Source": "CocinaIdeal",
   "BasePath": "_content/CocinaIdeal",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CocinaIdeal.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\css\\print.css",
+      "SourceId": "CocinaIdeal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\",
+      "BasePath": "_content/CocinaIdeal",
+      "RelativePath": "css/print.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\print.css"
     },
     {
       "Identity": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\css\\site.css",
@@ -338,6 +357,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\fotos\\Klimatic_f947d8f2-821b-44b6-b397-aa047aa3b98b.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\js\\qr.min.js",
+      "SourceId": "CocinaIdeal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\",
+      "BasePath": "_content/CocinaIdeal",
+      "RelativePath": "js/qr.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\qr.min.js"
     },
     {
       "Identity": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\wwwroot\\js\\site.js",

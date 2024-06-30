@@ -1,0 +1,54 @@
+﻿@model CocinaIdeal.Models.Venta
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Registrar Venta</h1>
+
+<h4>Venta</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group">
+                <label asp-for="ClienteId" class="control-label"></label>
+                <select asp-for="ClienteId" class="form-control" asp-items="ViewBag.ClienteId"></select>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="EsPagado" /> @Html.DisplayNameFor(model => model.EsPagado)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumeroTicketReserva" class="control-label"></label>
+                <input asp-for="NumeroTicketReserva" class="form-control" />
+                <span asp-validation-for="NumeroTicketReserva" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Precio" class="control-label"></label>
+                <input asp-for="Precio" class="form-control" />
+                <span asp-validation-for="Precio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UsuarioId" class="control-label">Usuario</label>
+                <select asp-for="UsuarioId" class ="form-control" asp-items="ViewBag.UsuarioId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="CocinaId" class="control-label"></label>
+                <select asp-for="CocinaId" class ="form-control" asp-items="ViewBag.CocinaId"></select>
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Registrar Venta" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a class=" btn btn-secondary" asp-action="Index">Volver a la Lista</a>
+</div>
+

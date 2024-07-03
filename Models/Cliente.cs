@@ -19,6 +19,10 @@ namespace CocinaIdeal.Models
 
         //public string? Ciudad { get; set; }
 
+        //atributos computados
+        [NotMapped]
+        public string? Info { get { return $"{Ci} - {Nombre} "; } }
+
         //relaciones: 1--->*
         public virtual List<Venta>? Ventas { get; set; }
     }

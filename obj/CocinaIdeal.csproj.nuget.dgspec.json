@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\CocinaIdeal.csproj": {}
+    "E:\\Proyecto de la cocina ideal\\CocinaIdeal\\CocinaIdeal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\CocinaIdeal.csproj": {
+    "E:\\Proyecto de la cocina ideal\\CocinaIdeal\\CocinaIdeal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\CocinaIdeal.csproj",
+        "projectUniqueName": "E:\\Proyecto de la cocina ideal\\CocinaIdeal\\CocinaIdeal.csproj",
         "projectName": "CocinaIdeal",
-        "projectPath": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\CocinaIdeal.csproj",
-        "packagesPath": "C:\\Users\\MR ROBOT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MR ROBOT\\Desktop\\Proyecto\\CocinaIdeal\\obj\\",
+        "projectPath": "E:\\Proyecto de la cocina ideal\\CocinaIdeal\\CocinaIdeal.csproj",
+        "packagesPath": "C:\\Users\\HNJ\\.nuget\\packages\\",
+        "outputPath": "E:\\Proyecto de la cocina ideal\\CocinaIdeal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MR ROBOT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HNJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

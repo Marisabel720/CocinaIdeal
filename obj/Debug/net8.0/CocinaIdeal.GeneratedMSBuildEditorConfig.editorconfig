@@ -17,123 +17,123 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CocinaIdeal
 build_property.RootNamespace = CocinaIdeal
-build_property.ProjectDir = C:\Users\MR ROBOT\Desktop\Proyecto\CocinaIdeal\
+build_property.ProjectDir = E:\Proyecto de la cocina ideal\CocinaIdeal\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\MR ROBOT\Desktop\Proyecto\CocinaIdeal
+build_property.MSBuildProjectDirectory = E:\Proyecto de la cocina ideal\CocinaIdeal
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Clientes/Create.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Clientes/Delete.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Clientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Clientes/Details.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Clientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Clientes/Edit.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Clientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Clientes/Index.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Clientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Cocinas/Create.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Cocinas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29jaW5hc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Cocinas/Delete.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Cocinas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29jaW5hc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Cocinas/Details.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Cocinas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29jaW5hc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Cocinas/Edit.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Cocinas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29jaW5hc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Cocinas/Index.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Cocinas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29jaW5hc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Home/Index.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Home/Privacy.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Login/Index.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Shared/Error.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Usuarios/Create.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Usuarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Usuarios/Delete.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Usuarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Usuarios/Details.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Usuarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Usuarios/Edit.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Usuarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Usuarios/Index.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Usuarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Ventas/Create.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Ventas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Ventas/Delete.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Ventas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Ventas/Details.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Ventas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Ventas/Edit.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Ventas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Ventas/Index.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Ventas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/_ViewImports.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/_ViewStart.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MR ROBOT/Desktop/Proyecto/CocinaIdeal/Views/Shared/_Layout.cshtml]
+[E:/Proyecto de la cocina ideal/CocinaIdeal/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-54savm6hzf

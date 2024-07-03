@@ -8,7 +8,7 @@ namespace CocinaIdeal.Models
 
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        [Required]
+        
         public int Id { get; set; }
         [Required]
         public string? Ci { get; set; }
@@ -16,7 +16,8 @@ namespace CocinaIdeal.Models
         public string? Nombre { get; set; }
         [Required]
         public int Celular { get; set; }
-        public string? Ciudad { get; set; }
+
+        //public string? Ciudad { get; set; }
 
         //relaciones: 1--->*
         public virtual List<Venta>? Ventas { get; set; }
